@@ -9,6 +9,7 @@
   height: 100vh;
   width: calc(100% - 20px);
   background-size:cover;
+  background-position: center;
   margin: 10px;
   box-shadow: 0 0 5px 2px #282a2d;
 }
